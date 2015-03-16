@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>aquadSeq 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>aquadSeq.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>mpiInit.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +23,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>4ACE288C1AA9D24E00FDFB40</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4ACFA71B1AB75E8B00F2A310</key>
 		<dict>
 			<key>primary</key>
 			<true/>
