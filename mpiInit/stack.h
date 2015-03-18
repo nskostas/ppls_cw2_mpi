@@ -5,6 +5,7 @@
  * Stack containing an array of doubles
  */
 
+
 typedef struct stack_node_tag stack_node;
 typedef struct stack_tag stack;
 

@@ -63,7 +63,7 @@
       </MacroExpansion>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "-n 4"
+            argument = "-n 6"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument

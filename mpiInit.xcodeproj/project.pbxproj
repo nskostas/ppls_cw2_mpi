@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4A2244B61AB76D3900A2EB6A /* stack.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A2244B41AB76D3900A2EB6A /* stack.c */; };
-		4A2244B81AB76D4200A2EB6A /* aquad.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A2244B71AB76D4200A2EB6A /* aquad.c */; };
+		4A2244B61AB76D3900A2EB6A /* stack.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A2244B41AB76D3900A2EB6A /* stack.c */; settings = {COMPILER_FLAGS = "-w"; }; };
+		4A2244B81AB76D4200A2EB6A /* aquad.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A2244B71AB76D4200A2EB6A /* aquad.c */; settings = {COMPILER_FLAGS = "-w"; }; };
 		4ACE28991AA9D33D00FDFB40 /* libmpi_cxx.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4ACE28971AA9D33D00FDFB40 /* libmpi_cxx.1.dylib */; };
 		4ACE289A1AA9D33D00FDFB40 /* libmpi.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4ACE28981AA9D33D00FDFB40 /* libmpi.1.dylib */; };
 /* End PBXBuildFile section */
